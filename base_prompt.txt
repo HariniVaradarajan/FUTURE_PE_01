@@ -1,0 +1,41 @@
+Create a modern, mobile-responsive website for a local beauty salon.
+
+Business Details:
+- Name: GlowUp Beauty Salon
+- Location: Chennai, India
+- Type: Beauty Salon
+- Target Audience: Women aged 18–40, brides, working professionals
+- Services: Haircuts, Hair Styling, Skincare, Facials, Bridal Makeup, Spa Treatments
+- Unique Selling Point: Personalized beauty services with expert stylists and premium products
+
+Website Requirements:
+
+1. Homepage Section:
+- Headline: “Your Perfect Look Starts Here – GlowUp Salon Chennai”
+- Subheadline: Premium hair, skin, and bridal services designed to make you confident and radiant
+- Intro: GlowUp Beauty Salon offers personalized beauty treatments using modern techniques and high-quality products in Chennai.
+
+2. Services Section:
+- Hair Styling & Cuts: Trendy cuts, coloring, styling tailored to individuals
+- Skincare & Facials: Deep cleansing and glow-enhancing treatments
+- Bridal Makeup: Complete bridal makeover packages
+- Spa & Relaxation: Hair spa, massage, and rejuvenation therapies
+
+3. CTA Section:
+- “Book Your Appointment Today”
+- “Trusted by 500+ Happy Clients”
+- “Visit Us in Chennai”
+
+4. Design Style:
+- Clean, modern, aesthetic
+- Soft pastel colors (pink, beige, white)
+- Elegant fonts
+- Include sections: Hero, Services, Testimonials, CTA, Contact
+
+5. Features:
+- Contact form
+- Phone number section
+- Location section
+- Booking button
+
+Make the website visually appealing, professional, and conversion-focused.
